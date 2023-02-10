@@ -14,7 +14,7 @@ $ pip install scipy-calculator
 **Installation via Github**
 this is for the stable released version
 ```sh
-$ pip install git+https://github.com/komus/scipy_calculator
+$ pip install git+[https://github.com/Amdjedkhaled/scipy_calculator]
 ```
 
 scipy_calculator uses multipledispatch dependency and pytest for automated test
